@@ -1,0 +1,5 @@
+{
+  "name": "SmartReconcile AI",
+  "description": "An intelligent financial reconciliation dashboard that detects anomalies and suggests smart fixes for discrepancies between Bank data and Book/GL records.",
+  "requestFramePermissions": []
+}
