@@ -1,0 +1,7 @@
+# Example Environment Variables for Vercel / Vite
+# Access in code using: import.meta.env.VITE_APP_TITLE
+
+VITE_APP_TITLE
+VITE_API_URL
+VITE_ENABLE_ANALYTICS
+VITE_MAX_UPLOAD_SIZE
